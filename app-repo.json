@@ -1,0 +1,17 @@
+{
+  "name": "Slowie's IPA Repo",
+  "identifier": "com.slowie.repo",
+  "apps": [
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Unknown",
+      "version": "11.17",
+      "versionDate": "2025-08-28",
+      "localizedDescription": "X with tweaks.",
+      "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/com.atebits.Tweetie2.png",
+      "downloadURL": "http://nextcloud.neelyha.tk/s/PZi3ZW4g3wN9sat/download",
+      "size": 181794341
+    }
+  ]
+}
