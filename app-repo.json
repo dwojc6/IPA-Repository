@@ -11,9 +11,7 @@
       "size": 181794207,
       "subtitle": "Tweaked version of X",
       "tintColor": "f9b44f",
-      "version": "11.17",
-      "versionDate": "2025-08-29",
-      "versionDescription": "X with injected tweaks"
+      "version": "11.17"
     }
   ],
   "identifier": "com.slowie.repo",
@@ -22,17 +20,5 @@
   "description": "All modified apps by Slowie for enhanced features and functionality.",
   "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/Repo_icon.png",
   "sourceURL": "https://dwojc6.github.io/IPA-Repository/app-repo.json",
-  "website": "https://github.com/dwojc6/IPA-Repository",
-  "news": [
-    {
-      "appID": "com.atebits.Tweetie2",
-      "caption": "X updated to 11.17 with tweaks",
-      "date": "2025-08-29",
-      "identifier": "new-update",
-      "notify": true,
-      "tintColor": "f9b44f",
-      "title": "X 11.17 Tweaked - 29 August 2025"
-    }
-  ],
-  "userInfo": {}
+  "website": "https://github.com/dwojc6/IPA-Repository"
 }
