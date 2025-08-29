@@ -5,7 +5,7 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "Slowie",
       "downloadURL": "https://nextcloud.neelyha.tk/s/ycoo6a5brbLws9x/download",
-      "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/com.atebits.Tweetie2.png?raw=true",
+      "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/com.atebits.Tweetie2.png",
       "localizedDescription": "X modified with injected tweaks for enhanced functionality.",
       "name": "X (Tweaked by Slowie)",
       "screenshotURLs": [],
@@ -22,7 +22,7 @@
   "name": "Slowie's IPA Repository",
   "subtitle": "Tweaked iOS Apps by Slowie",
   "description": "All modified apps by Slowie for enhanced features and functionality.",
-  "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/Feather_Repo_icon.png?raw=true",
+  "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/Feather_Repo_icon.png",
   "sourceURL": "https://dwojc6.github.io/IPA-Repository/app-repo.json",
   "website": "https://github.com/dwojc6/IPA-Repository",
   "news": [
