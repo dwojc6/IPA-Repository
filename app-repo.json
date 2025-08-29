@@ -1,7 +1,7 @@
 {
   "name": "Slowie's IPA Repository",
   "identifier": "com.slowie.repo",
-  "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/Feather_Repo_icon.png",
+  "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/Feather_Repo_icon.png?raw=true",
   "website": "https://github.com/dwojc6/IPA-Repository",
   "apps": [
     {
