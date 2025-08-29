@@ -1,22 +1,19 @@
 {
   "apps": [
     {
-      "name": "X (Tweaked by Slowie)",
+      "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "Slowie",
+      "downloadURL": "http://ipa.neelyha.tk/X_11.17_slowie.ipa",
       "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/com.atebits.Tweetie2.png",
       "localizedDescription": "X modified with injected tweaks for enhanced functionality.",
+      "name": "X (Tweaked by Slowie)",
+      "size": 181794207,
       "subtitle": "Tweaked version of X",
       "tintColor": "f9b44f",
-      "appPermissions": {},
-      "versions": [
-        {
-          "version": "11.17",
-          "date": "2025-08-29T00:00:00Z",
-          "size": 181794207,
-          "downloadURL": "https://ipa.neelyha.tk/X_11.17_slowie.ipa"
-        }
-      ]
+      "version": "11.17",
+      "versionDate": "2025-08-29",
+      "versionDescription": "X with injected tweaks"
     }
   ],
   "identifier": "com.slowie.repo",
