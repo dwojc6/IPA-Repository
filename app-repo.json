@@ -1,7 +1,7 @@
 {
   "name": "Slowie's IPA Repository",
   "identifier": "com.slowie.repo",
-  "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/Feather_Repo_icon.png?raw=true",
+  "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/Feather_Repo_icon.png",
   "website": "https://github.com/dwojc6/IPA-Repository",
   "apps": [
     {
@@ -12,7 +12,7 @@
       "versionDate": "2025-08-29",
       "versionDescription": "X with injected tweaks",
       "localizedDescription": "X modified with tweaks for enhanced functionality.",
-      "downloadURL": "http://nextcloud.neelyha.tk/s/ycoo6a5brbLws9x/download",
+      "downloadURL": "http://nextcloud.neelyha.tk/s/6EyWszDP6EYM97b/download",
       "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/com.atebits.Tweetie2.png",
       "screenshotURLs": [],
       "size": 181794322,
