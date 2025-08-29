@@ -4,12 +4,12 @@
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "Slowie",
-      "downloadURL": "https://nextcloud.neelyha.tk/s/ycoo6a5brbLws9x/download",
-      "iconURL": "https://raw.githubusercontent.com/dwojc6/IPA-Repository/main/icons/com.atebits.Tweetie2.png",
+      "downloadURL": "http://nextcloud.neelyha.tk/s/X_11.17_slowie.ipa",
+      "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/com.atebits.Tweetie2.png",
       "localizedDescription": "X modified with injected tweaks for enhanced functionality.",
       "name": "X (Tweaked by Slowie)",
       "screenshotURLs": [],
-      "size": 181794322,
+      "size": 181794321,
       "subtitle": "Tweaked version of X",
       "tintColor": "f9b44f",
       "version": "11.17",
@@ -33,7 +33,7 @@
       "identifier": "new-update",
       "notify": true,
       "tintColor": "f9b44f",
-      "title": "X 11.17 Tweaked - 29th August 2025"
+      "title": "X 11.17 Tweaked - 29 August 2025"
     }
   ],
   "userInfo": {}
