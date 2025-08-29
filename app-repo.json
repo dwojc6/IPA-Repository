@@ -1,40 +1,40 @@
 {
-    "apps": [
-        {
-            "beta": false,
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "developerName": "Slowie",
-            "downloadURL": "http://nextcloud.neelyha.tk/s/6EyWszDP6EYM97b/download",
-            "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/com.atebits.Tweetie2.png",
-            "localizedDescription": "X modified with injected tweaks for enhanced functionality.",
-            "name": "X (Tweaked by Slowie)",
-            "screenshotURLs": [],
-            "size": 181794322,
-            "subtitle": "Tweaked version of X",
-            "tintColor": "f9b44f",
-            "version": "11.17",
-            "versionDate": "2025-08-29",
-            "versionDescription": "X with injected tweaks",
-            "appPermissions": {}
-        }
-    ],
-    "identifier": "com.slowie.repo",
-    "name": "Slowie's IPA Repository",
-    "subtitle": "Tweaked iOS Apps by Slowie",
-    "description": "All modified apps by Slowie for enhanced features and functionality.",
-    "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/Feather_Repo_icon.png",
-    "sourceURL": "https://dwojc6.github.io/IPA-Repository/app-repo.json",
-    "website": "https://github.com/dwojc6/IPA-Repository",
-    "news": [
-        {
-            "appID": "com.atebits.Tweetie2",
-            "caption": "X updated to 11.17 with tweaks",
-            "date": "2025-08-29",
-            "identifier": "new-update",
-            "notify": true,
-            "tintColor": "f9b44f",
-            "title": "X v11.17 Tweaked - 29th August 2025"
-        }
-    ],
-    "userInfo": {}
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Slowie",
+      "downloadURL": "http://nextcloud.neelyha.tk/s/6EyWszDP6EYM97b/download",
+      "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/com.atebits.Tweetie2.png?raw=true",
+      "localizedDescription": "X modified with injected tweaks for enhanced functionality.",
+      "name": "X (Tweaked by Slowie)",
+      "screenshotURLs": [],
+      "size": 181794322,
+      "subtitle": "Tweaked version of X",
+      "tintColor": "f9b44f",
+      "version": "11.17",
+      "versionDate": "2025-08-29",
+      "versionDescription": "X with injected tweaks",
+      "appPermissions": {}
+    }
+  ],
+  "identifier": "com.slowie.repo",
+  "name": "Slowie's IPA Repository",
+  "subtitle": "Tweaked iOS Apps by Slowie",
+  "description": "All modified apps by Slowie for enhanced features and functionality.",
+  "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/Feather_Repo_icon.png?raw=true",
+  "sourceURL": "https://dwojc6.github.io/IPA-Repository/app-repo.json",
+  "website": "https://github.com/dwojc6/IPA-Repository",
+  "news": [
+    {
+      "appID": "com.atebits.Tweetie2",
+      "caption": "X updated to 11.17 with tweaks",
+      "date": "2025-08-29",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "f9b44f",
+      "title": "X v11.17 Tweaked - 29th August 2025"
+    }
+  ],
+  "userInfo": {}
 }
