@@ -1,18 +1,24 @@
-[
-  {
-    "name": "X",
-    "bundleIdentifier": "com.atebits.Tweetie2",
-    "developerName": "Slowie",
-    "version": "11.17",
-    "versionDate": "2025-08-29",
-    "versionDescription": "X with injected tweaks",
-    "localizedDescription": "X modified with tweaks for enhanced functionality.",
-    "downloadURL": "http://nextcloud.neelyha.tk/s/nMJ8dnq8iTC9XKA/download",
-    "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/com.atebits.Tweetie2.png",
-    "screenshotURLs": [],
-    "size": 181794322,
-    "subtitle": "Tweaked version of X",
-    "tintColor": "#1DA1F2",
-    "appPermissions": []
-  }
-]
+{
+  "name": "Slowie's IPA Repository",
+  "identifier": "com.slowe.repo",
+  "iconURL": "https://github.com/dwojc6/IPA-Repository/blob/main/icons/Feather_Repo_icon.png?raw=true",
+  "website": "https://github.com/dwojc6/IPA-Repository",
+  "apps": [
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Slowie",
+      "version": "11.17",
+      "versionDate": "2025-08-29",
+      "versionDescription": "X with injected tweaks",
+      "localizedDescription": "X modified with tweaks for enhanced functionality.",
+      "downloadURL": "http://nextcloud.neelyha.tk/s/6EyWszDP6EYM97b/download",
+      "iconURL": "https://dwojc6.github.io/IPA-Repository/icons/com.atebits.Tweetie2.png",
+      "screenshotURLs": [],
+      "size": 181794322,
+      "subtitle": "Tweaked version of X",
+      "tintColor": "#f9b44f",
+      "appPermissions": []
+    }
+  ]
+}
